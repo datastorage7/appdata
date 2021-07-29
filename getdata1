@@ -1,13 +1,13 @@
  {
 "digitalclocklivewallpaper.livewallpaper.clocklivewallpaper": [
     {
-      "exit_popup": "2",
+      "exit_popup": "0",
       "tx": "pub-61151-android-2793",
-      "b1": "ca-app-pub-3940256099942544/6300978111a",
-      "b2": "ca-app-pub-3940256099942544/6300978111a",
-      "i1": "ca-app-pub-3940256099942544/1033173712a",
-      "i2": "ca-app-pub-3940256099942544/1033173712a",
-      "na": "ca-app-pub-3940256099942544/2247696110a"
+      "b1": "ca-app-pub-7786861155545590/2542901423",
+      "b2": "ca-app-pub-7786861155545590/8286182695",
+      "i1": "ca-app-pub-7786861155545590/5660019358",
+      "i2": "ca-app-pub-7786861155545590/1720774345",
+      "na": "null"
     }
   ]
 } 
