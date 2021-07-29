@@ -9,5 +9,93 @@
       "i2": "ca-app-pub-7786861155545590/1720774345",
       "na": "null"
     }
+  ],
+  "ledclocklivewallpaper.digitalclocklivewallpaper.livewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "Tappxxxxxxx",
+      "b1": "Bbbbbbbbbbb",
+      "b2": "Bbbbbbbbbbb",
+      "i1": "Iiiiiiiiiii",
+      "i2": "Iiiiiiiiiii",
+      "na": "null"
+    }
+  ],
+  "neonclocklivewallpaper.livewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "Tappxxxxxxx",
+      "b1": "Bbbbbbbbbbb",
+      "b2": "Bbbbbbbbbbb",
+      "i1": "Iiiiiiiiiii",
+      "i2": "Iiiiiiiiiii",
+      "na": "null"
+    }
+  ],
+  "pixeldigitalclock.livewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "Tappxxxxxxx",
+      "b1": "Bbbbbbbbbbb",
+      "b2": "Bbbbbbbbbbb",
+      "i1": "Iiiiiiiiiii",
+      "i2": "Iiiiiiiiiii",
+      "na": "null"
+    }
+  ],
+  "usadigitalclock.livewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "Tappxxxxxxx",
+      "b1": "Bbbbbbbbbbb",
+      "b2": "Bbbbbbbbbbb",
+      "i1": "Iiiiiiiiiii",
+      "i2": "Iiiiiiiiiii",
+      "na": "null"
+    }
+  ],
+  "arabicdigitalclock.livewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "Tappxxxxxxx",
+      "b1": "Bbbbbbbbbbb",
+      "b2": "Bbbbbbbbbbb",
+      "i1": "Iiiiiiiiiii",
+      "i2": "Iiiiiiiiiii",
+      "na": "null"
+    }
+  ],
+  "cartoondigitalclocklivewallpaper.livewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "Tappxxxxxxx",
+      "b1": "Bbbbbbbbbbb",
+      "b2": "Bbbbbbbbbbb",
+      "i1": "Iiiiiiiiiii",
+      "i2": "Iiiiiiiiiii",
+      "na": "null"
+    }
+  ],
+  "tattoodigitalclock.livewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "Tappxxxxxxx",
+      "b1": "Bbbbbbbbbbb",
+      "b2": "Bbbbbbbbbbb",
+      "i1": "Iiiiiiiiiii",
+      "i2": "Iiiiiiiiiii",
+      "na": "null"
+    }
+  ],
+  "lovedigitalclocklivewallpaper.livewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "Tappxxxxxxx",
+      "b1": "Bbbbbbbbbbb",
+      "b2": "Bbbbbbbbbbb",
+      "i1": "Iiiiiiiiiii",
+      "i2": "Iiiiiiiiiii",
+      "na": "null"
+    }
   ]
 } 
