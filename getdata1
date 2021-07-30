@@ -24,33 +24,33 @@
 "neonclocklivewallpaper.livewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxxxxx",
-      "b1": "Bbbbbbbbbbb",
-      "b2": "Bbbbbbbbbbb",
-      "i1": "Iiiiiiiiiii",
-      "i2": "Iiiiiiiiiii",
+      "tx": "pub-61233-android-0721",
+      "b1": "ca-app-pub-7786861155545590/4127445835",
+      "b2": "ca-app-pub-7786861155545590/2814364162",
+      "i1": "ca-app-pub-7786861155545590/2179298711",
+      "i2": "ca-app-pub-7786861155545590/6562037481",
       "na": "null"
     }
   ],
 "pixeldigitalclock.livewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxxxxx",
-      "b1": "Bbbbbbbbbbb",
-      "b2": "Bbbbbbbbbbb",
-      "i1": "Iiiiiiiiiii",
-      "i2": "Iiiiiiiiiii",
+      "tx": "pub-61234-android-0830",
+      "b1": "ca-app-pub-7786861155545590/3281268027",
+      "b2": "ca-app-pub-7786861155545590/1904321762",
+      "i1": "ca-app-pub-7786861155545590/6965076757",
+      "i2": "ca-app-pub-7786861155545590/3727990587",
       "na": "null"
     }
   ],
 "usadigitalclock.livewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxxxxx",
-      "b1": "Bbbbbbbbbbb",
-      "b2": "Bbbbbbbbbbb",
-      "i1": "Iiiiiiiiiii",
-      "i2": "Iiiiiiiiiii",
+      "tx": "pub-61231-android-0417",
+      "b1": "ca-app-pub-7786861155545590/6007218304",
+      "b2": "ca-app-pub-7786861155545590/7742971805",
+      "i1": "ca-app-pub-7786861155545590/8441809959",
+      "i2": "ca-app-pub-7786861155545590/1876401602",
       "na": "null"
     }
   ],
@@ -79,22 +79,22 @@
 "tattoodigitalclock.livewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxxxxx",
-      "b1": "Bbbbbbbbbbb",
-      "b2": "Bbbbbbbbbbb",
-      "i1": "Iiiiiiiiiii",
-      "i2": "Iiiiiiiiiii",
+      "tx": "pub-61235-android-0936",
+      "b1": "ca-app-pub-7786861155545590/6581933373",
+      "b2": "ca-app-pub-7786861155545590/3300808697",
+      "i1": "ca-app-pub-7786861155545590/9016525023",
+      "i2": "ca-app-pub-7786861155545590/5077280018",
       "na": "null"
     }
   ],
 "lovedigitalclocklivewallpaper.livewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxxxxx",
-      "b1": "Bbbbbbbbbbb",
-      "b2": "Bbbbbbbbbbb",
-      "i1": "Iiiiiiiiiii",
-      "i2": "Iiiiiiiiiii",
+      "tx": "pub-61232-android-0597",
+      "b1": "ca-app-pub-7786861155545590/8449834227",
+      "b2": "ca-app-pub-7786861155545590/4510589211",
+      "i1": "ca-app-pub-7786861155545590/9247625164",
+      "i2": "ca-app-pub-7786861155545590/1038248062",
       "na": "null"
     }
   ]
