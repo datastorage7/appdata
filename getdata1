@@ -13,11 +13,11 @@
 "ledclocklivewallpaper.digitalclocklivewallpaper.livewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxxxxx",
-      "b1": "Bbbbbbbbbbb",
-      "b2": "Bbbbbbbbbbb",
-      "i1": "Iiiiiiiiiii",
-      "i2": "Iiiiiiiiiii",
+      "tx": "pub-61230-android-8586",
+      "b1": "ca-app-pub-7786861155545590/1337630960",
+      "b2": "ca-app-pub-7786861155545590/6398385958",
+      "i1": "ca-app-pub-7786861155545590/5085304284",
+      "i2": "ca-app-pub-7786861155545590/1146059279",
       "na": "null"
     }
   ],
