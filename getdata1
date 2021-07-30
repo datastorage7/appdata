@@ -57,22 +57,22 @@
 "arabicdigitalclock.livewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxxxxx",
-      "b1": "Bbbbbbbbbbb",
-      "b2": "Bbbbbbbbbbb",
-      "i1": "Iiiiiiiiiii",
-      "i2": "Iiiiiiiiiii",
+      "tx": "pub-61229-android-7383",
+      "b1": "ca-app-pub-7786861155545590/4730081062",
+      "b2": "ca-app-pub-7786861155545590/9710945001",
+      "i1": "ca-app-pub-7786861155545590/8397863337",
+      "i2": "ca-app-pub-7786861155545590/1943850213",
       "na": "null"
     }
   ],
 "cartoondigitalclocklivewallpaper.livewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxxxxx",
-      "b1": "Bbbbbbbbbbb",
-      "b2": "Bbbbbbbbbbb",
-      "i1": "Iiiiiiiiiii",
-      "i2": "Iiiiiiiiiii",
+      "tx": "pub-61228-android-6143",
+      "b1": "ca-app-pub-7786861155545590/1943494990",
+      "b2": "ca-app-pub-7786861155545590/3448503573",
+      "i1": "ca-app-pub-7786861155545590/7858807285",
+      "i2": "ca-app-pub-7786861155545590/6545725611",
       "na": "null"
     }
   ],
