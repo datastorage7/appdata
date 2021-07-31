@@ -1,78 +1,78 @@
 {
-"PPPPPPPPP": [
+"com.solidanalogclocklivewallpaper.solidanalogclock": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxx",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "tx": "pub-61251-android-2922",
+      "b1": "ca-app-pub-7786861155545590/5182249468",
+      "b2": "ca-app-pub-7786861155545590/6515512431",
+      "i1": "ca-app-pub-7786861155545590/3889349096",
+      "i2": "ca-app-pub-7786861155545590/2556086120",
       "na": "null"
     }
   ],
-"PPPPPPPPP": [
+"com.analogclock.analogclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxx",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "tx": "pub-61252-android-3133",
+      "b1": "ca-app-pub-7786861155545590/5090750120",
+      "b2": "ca-app-pub-7786861155545590/1151505116",
+      "i1": "ca-app-pub-7786861155545590/9632344952",
+      "i2": "ca-app-pub-7786861155545590/8989347127",
       "na": "null"
     }
   ],
-"PPPPPPPPP": [
+"com.analogclockcircle.analogclocklivewallpaper.awesome": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxx",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "tx": "pub-61253-android-3263",
+      "b1": "ca-app-pub-7786861155545590/8187880271",
+      "b2": "ca-app-pub-7786861155545590/6874798603",
+      "i1": "ca-app-pub-7786861155545590/4248635266",
+      "i2": "ca-app-pub-7786861155545590/2935553598",
       "na": "null"
     }
   ],
-"PPPPPPPPP": [
+"com.analogclocklivewallpaper.analogclock": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxx",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "tx": "pub-61254-android-3363",
+      "b1": "ca-app-pub-7786861155545590/1993511204",
+      "b2": "ca-app-pub-7786861155545590/1993511204",
+      "i1": "ca-app-pub-7786861155545590/7054266196",
+      "i2": "ca-app-pub-7786861155545590/7054266196",
       "na": "null"
     }
   ],
-"PPPPPPPPP": [
+"com.analogclocknew": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxx",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "tx": "pub-61255-android-3486",
+      "b1": "ca-app-pub-7786861155545590/8016296369",
+      "b2": "ca-app-pub-7786861155545590/6547016612",
+      "i1": "ca-app-pub-7786861155545590/4077051356",
+      "i2": "ca-app-pub-7786861155545590/1450888012",
       "na": "null"
     }
   ],
-"PPPPPPPPP": [
+"com.analogclocksquare": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxx",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "tx": "pub-61256-android-3568",
+      "b1": "ca-app-pub-7786861155545590/9412853102",
+      "b2": "ca-app-pub-7786861155545590/4224391012",
+      "i1": "ca-app-pub-7786861155545590/4815417958",
+      "i2": "ca-app-pub-7786861155545590/9876172949",
       "na": "null"
     }
   ],
-"PPPPPPPPP": [
+"com.analogclocksquareclassic": [
     {
       "exit_popup": "0",
-      "tx": "Tappxxxx",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "tx": "pub-61257-android-3666",
+      "b1": "ca-app-pub-7786861155545590/5362212863",
+      "b2": "ca-app-pub-7786861155545590/9109886181",
+      "i1": "ca-app-pub-7786861155545590/7796804515",
+      "i2": "ca-app-pub-7786861155545590/6483722845",
       "na": "null"
     }
   ]
