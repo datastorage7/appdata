@@ -1,0 +1,79 @@
+ {
+"digitalclock.analogclock.analogclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61287-android-7065",
+      "b1": "ca-app-pub-8617841782605504/7584044921",
+      "b2": "ca-app-pub-8617841782605504/4898171839",
+      "i1": "ca-app-pub-8617841782605504/2272008499",
+      "i2": "ca-app-pub-8617841782605504/2119965250",
+      "na": "null"
+    }
+  ],
+  "digitalclock.analogclock.digiclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61288-android-7379",
+      "b1": "ca-app-pub-8617841782605504/4515028454",
+      "b2": "ca-app-pub-8617841782605504/1888865114",
+      "i1": "ca-app-pub-8617841782605504/4766309890",
+      "i2": "ca-app-pub-8617841782605504/5636538433",
+      "na": "null"
+    }
+  ],
+  "digitalclock.analogclock.digitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61289-android-7475",
+      "b1": "ca-app-pub-8617841782605504/5253395059",
+      "b2": "ca-app-pub-8617841782605504/1955000644",
+      "i1": "ca-app-pub-8617841782605504/4574738208",
+      "i2": "ca-app-pub-8617841782605504/9641918973",
+      "na": "null"
+    }
+  ],
+  "digitalclock.analogclock.digitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61290-android-7607",
+      "b1": "ca-app-pub-8617841782605504/5935921337",
+      "b2": "ca-app-pub-8617841782605504/6152076588",
+      "i1": "ca-app-pub-8617841782605504/1757003174",
+      "i2": "ca-app-pub-8617841782605504/4622839666",
+      "na": "null"
+    }
+  ],
+  "digitalclock.analogclock.digitalclocklivewallpaper.digiclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61291-android-7703",
+      "b1": "ca-app-pub-8617841782605504/1270558640",
+      "b2": "ca-app-pub-8617841782605504/8178941299",
+      "i1": "ca-app-pub-8617841782605504/4239696280",
+      "i2": "ca-app-pub-8617841782605504/1613532941",
+      "na": "null"
+    }
+  ],
+  "digitalclock.analogclock.leddigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61292-android-7803",
+      "b1": "ca-app-pub-8617841782605504/2543471234",
+      "b2": "ca-app-pub-8617841782605504/6626186475",
+      "i1": "ca-app-pub-8617841782605504/4000023137",
+      "i2": "ca-app-pub-8617841782605504/3664981215",
+      "na": "null"
+    }
+  ],
+  "digitalclock.analogclock.neondigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61293-android-7879",
+      "b1": "ca-app-pub-8617841782605504/4929961423",
+      "b2": "ca-app-pub-8617841782605504/3838927956",
+      "i1": "ca-app-pub-8617841782605504/8677634744",
+      "i2": "ca-app-pub-8617841782605504/7586601274",
+      "na": "null"
+    }
+  ]
+}
