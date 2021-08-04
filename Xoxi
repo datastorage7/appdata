@@ -1,0 +1,46 @@
+{
+"xoxoi.leddigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61361-android-0120",
+      "b1": "BBBBBBBBB",
+      "b2": "BBBBBBBBB",
+      "i1": "IIIIIIIII",
+      "i2": "IIIIIIIII",
+      "na": "NA"
+    }
+  ],
+"xoxoi.digitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61362-android-0192",
+      "b1": "BBBBBBBBB",
+      "b2": "BBBBBBBBB",
+      "i1": "IIIIIIIII",
+      "i2": "IIIIIIIII",
+      "na": "NA"
+    }
+  ],
+"xoxoi.digitalclock": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61363-android-0260",
+      "b1": "BBBBBBBBB",
+      "b2": "BBBBBBBBB",
+      "i1": "IIIIIIIII",
+      "i2": "IIIIIIIII",
+      "na": "NA"
+    }
+  ],
+"xoxoi.analogclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61364-android-0317",
+      "b1": "BBBBBBBBB",
+      "b2": "BBBBBBBBB",
+      "i1": "IIIIIIIII",
+      "i2": "IIIIIIIII",
+      "na": "NA"
+    }
+  ]
+}
