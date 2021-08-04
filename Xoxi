@@ -3,10 +3,10 @@
     {
       "exit_popup": "0",
       "tx": "pub-61361-android-0120",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "b1": "ca-app-pub-9891851560964002/2039792369",
+      "b2": "ca-app-pub-9891851560964002/2039792369",
+      "i1": "ca-app-pub-9891851560964002/4919454181",
+      "i2": "ca-app-pub-9891851560964002/4919454181",
       "na": "NA"
     }
   ],
@@ -14,10 +14,10 @@
     {
       "exit_popup": "0",
       "tx": "pub-61362-android-0192",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "b1": "ca-app-pub-9891851560964002/3167388810",
+      "b2": "ca-app-pub-9891851560964002/3167388810",
+      "i1": "ca-app-pub-9891851560964002/5912616431",
+      "i2": "ca-app-pub-9891851560964002/5912616431",
       "na": "NA"
     }
   ],
@@ -25,10 +25,10 @@
     {
       "exit_popup": "0",
       "tx": "pub-61363-android-0260",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "b1": "ca-app-pub-9891851560964002/5055185555",
+      "b2": "ca-app-pub-9891851560964002/5055185555",
+      "i1": "ca-app-pub-9891851560964002/3742103882",
+      "i2": "ca-app-pub-9891851560964002/3742103882",
       "na": "NA"
     }
   ],
@@ -36,10 +36,10 @@
     {
       "exit_popup": "0",
       "tx": "pub-61364-android-0317",
-      "b1": "BBBBBBBBB",
-      "b2": "BBBBBBBBB",
-      "i1": "IIIIIIIII",
-      "i2": "IIIIIIIII",
+      "b1": "ca-app-pub-9891851560964002/9735477227",
+      "b2": "ca-app-pub-9891851560964002/9735477227",
+      "i1": "ca-app-pub-9891851560964002/1209926420",
+      "i2": "ca-app-pub-9891851560964002/1209926420",
       "na": "NA"
     }
   ]
