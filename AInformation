@@ -12,7 +12,8 @@ exit_popup = 0, 1, 2, 3, 4
       "na": "NA"
     }
   ],
-"PPPPPPPPPPPPPPPPP
+"PPPPPPPPPPPPPPPPP": [
+    {
       "exit_popup": "0",
       "tx": "TPXXXXXXX",
       "b1": "BBBBBBBBB",
