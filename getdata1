@@ -56,12 +56,12 @@
   ],
 "arabicdigitalclock.livewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61229-android-7383",
-      "b1": "ca-app-pub-7786861155545590/4730081062",
-      "b2": "ca-app-pub-7786861155545590/9710945001",
-      "i1": "ca-app-pub-7786861155545590/8397863337",
-      "i2": "ca-app-pub-7786861155545590/1943850213",
+      "b1": "/6499/example/banner",
+      "b2": "/6499/example/banner",
+      "i1": "/6499/example/interstitial",
+      "i2": "/6499/example/interstitial",
       "na": "null"
     }
   ],
